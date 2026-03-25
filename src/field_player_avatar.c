@@ -445,8 +445,13 @@ static void MovePlayerAvatarUsingKeypadInput(enum Direction direction, u16 newKe
     if (gPlayerAvatar.flags & (PLAYER_AVATAR_FLAG_MACH_BIKE | PLAYER_AVATAR_FLAG_ACRO_BIKE))
         MovePlayerOnBike(direction, newKeys, heldKeys);
     else
+    {
+        if ((newKeys & B_BUTTON) && FlagGet(FLAG_SYS_B_DASH))
+            FlagToggle(FLAG_SYS_AUTORUN);
         MovePlayerNotOnBike(direction, heldKeys);
+    }
 }
+
 
 static void PlayerAllowForcedMovementIfMovingSameDirection(void)
 {
@@ -919,7 +924,7 @@ static void PlayerNotOnBikeMoving(enum Direction direction, u16 heldKeys)
     }
 
     if (!(gPlayerAvatar.flags & PLAYER_AVATAR_FLAG_UNDERWATER)
-     && (heldKeys & B_BUTTON)
+     && FlagGet(FLAG_SYS_AUTORUN)
      && FlagGet(FLAG_SYS_B_DASH)
      && IsRunningDisallowed(gObjectEvents[gPlayerAvatar.objectEventId].currentMetatileBehavior) == 0
      && !FollowerNPCComingThroughDoor()

@@ -200,6 +200,7 @@ void NewGameInitData(void)
     ResetPokemonStorageSystem();
     DeactivateAllRoamers();
     gSaveBlock1Ptr->registeredItem = ITEM_NONE;
+    FlagSet(FLAG_SYS_B_DASH); // This gives the running shoes by default
     ClearBag();
     NewGameInitPCItems();
     ClearPokeblocks();

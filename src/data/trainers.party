@@ -4789,7 +4789,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Crunch
 
 === TRAINER_ROXANNE_1 ===
-Name: ROXANNE
+Name: ZAN
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -4798,29 +4798,28 @@ Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
+Growlithe
+Level: 12
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Tackle
+- Growl
+- Ember
+- Tail Whip
+
+Clamperl
 Level: 12
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
 - Defense Curl
-- Rock Throw
-- Rock Tomb
+- Water Gun
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
-
-Nosepass @ Oran Berry
+Pumpkaboo @ Oran Berry
 Level: 15
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
+- Mean Look
+- Trick-or-Treat
 - Tackle
-- Rock Tomb
+- Razor Leaf
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -9675,7 +9674,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
+Rowlet
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9730,7 +9729,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Torchic
+Cyndaquil
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9785,7 +9784,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
+Froakie
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
