@@ -200,7 +200,8 @@ void NewGameInitData(void)
     ResetPokemonStorageSystem();
     DeactivateAllRoamers();
     gSaveBlock1Ptr->registeredItem = ITEM_NONE;
-    FlagSet(FLAG_SYS_B_DASH); // This gives the running shoes by default
+    FlagSet(FLAG_SYS_B_DASH);              // Player starts with Running Shoes
+    FlagSet(FLAG_RECEIVED_RUNNING_SHOES);  // Places the instruction booklet in the starting house
     ClearBag();
     NewGameInitPCItems();
     ClearPokeblocks();
