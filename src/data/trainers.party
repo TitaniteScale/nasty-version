@@ -4856,7 +4856,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Snore
 
 === TRAINER_WATTSON_1 ===
-Name: WATTSON
+Name: SETH
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -4865,37 +4865,37 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Voltorb
+Koffing
 Level: 20
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+- Smog
+- Smokescreen
+- Leech Life
+- Poison Gas
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
-
-Magneton
+Golbat
 Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Wing Attack
+- Bite
 - Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+- Sludge Bomb
 
-Manectric @ Sitrus Berry
-Level: 24
+Heatmor
+Level: 23
+IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
+- Incinerate
+- Bug Bite
+- Rest
+- Snore
+
+Durant @ Sitrus Berry
+Level: 25
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+- Metal Claw
+- Bug Bite
+- Agility
+- Bite
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
