@@ -5044,7 +5044,6 @@ AI: Basic Trainer
 Chansey @ Eviolite
 Ability: Natural Cure
 Level: 41
-EVs: 248 HP / 252 Def / 8 SpD
 Bold Nature
 - Soft-Boiled
 - Thunder Wave
@@ -5054,7 +5053,6 @@ Bold Nature
 Houndoom @ Houndoominite
 Ability: Flash Fire
 Level: 46
-EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 - Flamethrower
 - Dark Pulse
@@ -5064,7 +5062,6 @@ Timid Nature
 Sneasler @ Air Balloon
 Ability: Unburden
 Level: 43
-EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
 - Brick Break
 - Dire Claw
@@ -5075,7 +5072,6 @@ Starmie @ Life Orb
 Ability: Analytic
 Level: 44
 Shiny: Yes
-EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 - Psychic
 - Recover
@@ -5086,7 +5082,6 @@ Bewear @ Assault Vest
 Ability: Fluffy
 Level: 44
 Shiny: Yes
-EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 - Ice Punch
 - Earthquake
@@ -5097,7 +5092,6 @@ Decidueye @ Spell Tag
 Ability: Long Reach
 Level: 45
 Shiny: Yes
-EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
 - Spirit Shackle
 - U-turn
@@ -5118,7 +5112,6 @@ Mimikyu @ Life Orb
 Ability: Disguise
 Level: 46
 Shiny: Yes
-EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 - Swords Dance
 - Shadow Claw
@@ -5129,7 +5122,6 @@ Feraligatr @ Feraligite
 Ability: Sheer Force
 Level: 47
 Shiny: Yes
-EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 - Liquidation
 - Ice Fang
@@ -5140,7 +5132,6 @@ Clodsire @ Black Sludge
 Ability: Water Absorb
 Level: 47
 Shiny: Yes
-EVs: 4 HP / 252 Def / 252 SpD
 Impish Nature
 - Toxic Spikes
 - Earthquake
@@ -5151,7 +5142,6 @@ Annihilape @ Leftovers
 Ability: Defiant
 Level: 48
 Shiny: Yes
-EVs: 240 HP / 252 SpD / 16 Spe
 Careful Nature
 - Bulk Up
 - Thunder Punch
@@ -5162,7 +5152,6 @@ Maushold @ Loaded Dice
 Ability: Technician
 Level: 50
 Shiny: Yes
-EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 - Tidy Up
 - Population Bomb
@@ -5173,7 +5162,6 @@ Eelektross @ Assault Vest
 Ability: Levitate
 Level: 50
 Shiny: Yes
-EVs: 252 HP / 4 Atk / 252 SpA
 Modest Nature
 - Thunderbolt
 - Giga Drain
